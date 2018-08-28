@@ -1,0 +1,22 @@
+10 
+10 
+
+a a a a a a a X a a
+
+a a a a a a a X a a
+
+a a a a a a a X X a
+
+X X X a a a a X a X
+
+a a X a a a a X X X
+
+X X X a a a a a a a
+
+a a a a a a a X X X
+
+X X X X X X X a a a
+
+a a a a a a a X a a
+
+a a a a a a a a X X

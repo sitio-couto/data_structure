@@ -1,0 +1,49 @@
+size(100)
+Selection -> 0.000013976 seg
+Bubble    -> 0.000038618 seg
+Insertion -> 0.000015323 seg
+Merge     -> 0.000012179 seg
+Quick     -> 0.000035469 seg
+Heap      -> 0.000007484 seg
+Radix     -> 0.000021029 seg
+Shell     -> 0.000007815 seg
+
+size(1k)
+Selection -> 0.001172332 seg
+Bubble    -> 0.004201680 seg
+Insertion -> 0.001353179 seg
+Merge     -> 0.000184535 seg
+Quick     -> 0.002283105 seg
+Heap      -> 0.000161603 seg
+Radix     -> 0.000192122 seg
+Shell     -> 0.000172473 seg
+
+size(10k)
+Selection -> 0.107812500 seg
+Bubble    -> 0.442708333 seg
+Insertion -> 0.136718750 seg
+Merge     -> 0.002277904 seg
+Quick     -> 0.206250000 seg
+Heap      -> 0.002105263 seg
+Radix     -> 0.001934235 seg
+Shell     -> 0.002857142 seg
+
+size(100K)
+Selection -> 10.750000000 seg
+Bubble    -> 45.218750000 seg
+Insertion -> 13.421875000 seg
+Merge     -> 0.026726973 seg
+Quick     -> 21.296875000 seg
+Heap      -> 0.029411764 seg
+Radix     -> 0.023255813 seg
+Shell     -> 0.040625000 seg
+
+size(1M)
+Selection -> OVERTIME
+Bubble    -> OVERTIME
+Insertion -> OVERTIME
+Merge     -> 0.308593750 seg
+Quick     -> OVERTIME
+Heap      -> 0.332031250 seg
+Radix     -> 0.253906250 seg
+Shell     -> 0.531250000 seg
